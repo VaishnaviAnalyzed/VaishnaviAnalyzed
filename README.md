@@ -64,7 +64,7 @@
 
 <!-- COMPETITIVE PROGRAMMING & PROBLEM SOLVING -->
 <div align="center">
-  <img src="https://capsulerender.vercel.app/apitype=waving&color=auto&height=120&section=header&text=%20Algorithmic%20%26%20Problem%20Solving&fontSize=30&fontColor=ffffff"width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🏆%20Competitive%20Programming&fontSize=30&fontColor=ffffff" width="100%"/>
 </div>
 
 <p align="center">
