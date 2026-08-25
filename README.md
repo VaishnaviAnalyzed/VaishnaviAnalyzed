@@ -266,9 +266,7 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviAnalyzed&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
   </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviAnalyzed&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
-  </p>
+  
   <p>
     <img src="https://raw.githubusercontent.com/VaishnaviAnalyzed/VaishnaviAnalyzed/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
   </p>
