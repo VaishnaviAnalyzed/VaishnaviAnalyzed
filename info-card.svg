@@ -12,19 +12,115 @@
 <circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/>
 <circle cx="52" cy="15.0" r="5" fill="#27c93f"/>
 <text x="240.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">VaishnaviAnalyzed@github: ~$ neofetch</text>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="60.0" font-size="14" font-weight="700"><tspan fill="#3fb950">VaishnaviAnalyzed</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#22d3ee">github</tspan></text><line x1="217" y1="56.0" x2="460" y2="56.0" stroke="#30363d" stroke-opacity="0.8"/><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.15s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="82.55" fill="#58a6ff" font-size="12.5" font-weight="700">— About</text><line x1="72" y1="78.5" x2="460" y2="78.5" stroke="#30363d" stroke-opacity="0.8"/><animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.21s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="113.3" fill="#ffa657" font-size="12.5" font-weight="700">Role</text><text x="112" y="113.3" fill="#c9d1d9" font-size="12.5">AI &amp; Computer Vision Engineer</text><animate attributeName="opacity" from="0" to="1" begin="0.33s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.33s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="133.8" fill="#ffa657" font-size="12.5" font-weight="700">Focus</text><text x="112" y="133.8" fill="#c9d1d9" font-size="12.5">AI-powered web applications</text><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.39s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="154.3" fill="#ffa657" font-size="12.5" font-weight="700">College</text><text x="112" y="154.3" fill="#c9d1d9" font-size="12.5">B.Tech, BDCOE Engg. College</text><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.45s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="174.8" fill="#ffa657" font-size="12.5" font-weight="700">LeetCode</text><text x="112" y="174.8" fill="#c9d1d9" font-size="12.5">10+ problems solved</text><animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.51s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="195.3" fill="#58a6ff" font-size="12.5" font-weight="700">— Stack</text><line x1="72" y1="191.3" x2="460" y2="191.3" stroke="#30363d" stroke-opacity="0.8"/><animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.57s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="226.05" fill="#ffa657" font-size="12.5" font-weight="700">Frontend</text><text x="112" y="226.05" fill="#c9d1d9" font-size="12.5">React, Next.js, TypeScript</text><animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.69s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="246.55" fill="#ffa657" font-size="12.5" font-weight="700">Backend</text><text x="112" y="246.55" fill="#c9d1d9" font-size="12.5">Node.js, Python, FastAPI</text><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.75s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="267.05" fill="#ffa657" font-size="12.5" font-weight="700">Database</text><text x="112" y="267.05" fill="#c9d1d9" font-size="12.5">PostgreSQL, MongoDB, Redis</text><animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.81s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="287.55" fill="#ffa657" font-size="12.5" font-weight="700">Cloud</text><text x="112" y="287.55" fill="#c9d1d9" font-size="12.5">AWS, Docker, GitHub Actions</text><animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.87s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><text x="20" y="308.05" fill="#58a6ff" font-size="12.5" font-weight="700">— Highlights</text><line x1="110" y1="304.1" x2="460" y2="304.1" stroke="#30363d" stroke-opacity="0.8"/><animate attributeName="opacity" from="0" to="1" begin="0.93s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.93s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><circle cx="23" cy="334.8" r="2.5" fill="#3fb950"/><text x="34" y="338.8" fill="#c9d1d9" font-size="12.5">40 public repositories</text><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.05s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><circle cx="23" cy="355.3" r="2.5" fill="#3fb950"/><text x="34" y="359.3" fill="#c9d1d9" font-size="12.5"> GitHub stars earned</text><animate attributeName="opacity" from="0" to="1" begin="1.11s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.11s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
-<g opacity="0" transform="translate(0,5)"><circle cx="23" cy="375.8" r="2.5" fill="#3fb950"/><text x="34" y="379.8" fill="#c9d1d9" font-size="12.5">Open source contributor</text><animate attributeName="opacity" from="0" to="1" begin="1.17s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.17s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>
+
+<!-- USER / HOST -->
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="60.0" font-size="14" font-weight="700">
+    <tspan fill="#3fb950">VaishnaviAnalyzed</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#22d3ee">github</tspan>
+  </text>
+  <line x1="217" y1="56.0" x2="460" y2="56.0" stroke="#30363d" stroke-opacity="0.8"/>
+  <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.15s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<!-- ABOUT SECTION -->
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="82.55" fill="#58a6ff" font-size="12.5" font-weight="700">— About</text>
+  <line x1="72" y1="78.5" x2="460" y2="78.5" stroke="#30363d" stroke-opacity="0.8"/>
+  <animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.21s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="113.3" fill="#ffa657" font-size="12.5" font-weight="700">Role</text>
+  <text x="112" y="113.3" fill="#c9d1d9" font-size="12.5">AI &amp; Computer Vision Engineer</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.33s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.33s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="133.8" fill="#ffa657" font-size="12.5" font-weight="700">Focus</text>
+  <text x="112" y="133.8" fill="#c9d1d9" font-size="12.5">Vision Systems &amp; Agentic AI</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.39s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="154.3" fill="#ffa657" font-size="12.5" font-weight="700">Degree</text>
+  <text x="112" y="154.3" fill="#c9d1d9" font-size="12.5">B.Tech in Computer Engineering</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.45s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="174.8" fill="#ffa657" font-size="12.5" font-weight="700">Cert</text>
+  <text x="112" y="174.8" fill="#c9d1d9" font-size="12.5">Generative &amp; Agentic AI (Naresh iTech)</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.51s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<!-- STACK SECTION -->
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="195.3" fill="#58a6ff" font-size="12.5" font-weight="700">— Stack</text>
+  <line x1="72" y1="191.3" x2="460" y2="191.3" stroke="#30363d" stroke-opacity="0.8"/>
+  <animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.57s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="226.05" fill="#ffa657" font-size="12.5" font-weight="700">Vision / ML</text>
+  <text x="112" y="226.05" fill="#c9d1d9" font-size="12.5">OpenCV, MediaPipe, YOLOv5, PyTorch</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.69s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="246.55" fill="#ffa657" font-size="12.5" font-weight="700">GenAI / RAG</text>
+  <text x="112" y="246.55" fill="#c9d1d9" font-size="12.5">LangChain, Gemini API, Groq, FAISS</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.75s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="267.05" fill="#ffa657" font-size="12.5" font-weight="700">Backend API</text>
+  <text x="112" y="267.05" fill="#c9d1d9" font-size="12.5">FastAPI, Python, WebSockets, Streamlit</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.81s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="287.55" fill="#ffa657" font-size="12.5" font-weight="700">Database</text>
+  <text x="112" y="287.55" fill="#c9d1d9" font-size="12.5">MongoDB, Vector Store Indexing</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.87s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<!-- HIGHLIGHTS SECTION -->
+<g opacity="0" transform="translate(0,5)">
+  <text x="20" y="308.05" fill="#58a6ff" font-size="12.5" font-weight="700">— Highlights</text>
+  <line x1="110" y1="304.1" x2="460" y2="304.1" stroke="#30363d" stroke-opacity="0.8"/>
+  <animate attributeName="opacity" from="0" to="1" begin="0.93s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.93s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <circle cx="23" cy="334.8" r="2.5" fill="#3fb950"/>
+  <text x="34" y="338.8" fill="#c9d1d9" font-size="12.5">Real-Time Posture &amp; Pose Monitoring</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.05s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <circle cx="23" cy="355.3" r="2.5" fill="#3fb950"/>
+  <text x="34" y="359.3" fill="#c9d1d9" font-size="12.5">Live WebSocket Helmet Compliance Detection</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.11s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.11s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+
+<g opacity="0" transform="translate(0,5)">
+  <circle cx="23" cy="375.8" r="2.5" fill="#3fb950"/>
+  <text x="34" y="379.8" fill="#c9d1d9" font-size="12.5">Sentence-BERT &amp; FAISS RAG Architecture</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.17s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.17s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
 </svg>
