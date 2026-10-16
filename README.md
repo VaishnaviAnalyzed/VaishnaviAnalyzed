@@ -148,6 +148,30 @@
         <li>✔ Instant visual and posture corrective feedback</li>
       </ul>
     </td>
+      <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="#">Brain Tumor MRI Classification</a></h3>
+      <p>A deep-learning pipeline that classifies brain MRI slices into glioma, meningioma, pituitary tumor, or no tumor, using a custom CNN, transfer-learning backbones, and a Streamlit app for real-time prediction.</p>
+      <p>
+        <code>TensorFlow</code> <code>CNN</code> <code>Transfer Learning</code> <code>OpenCV</code> <code>Streamlit</code>
+      </p>
+      <ul>
+        <li>✔ Custom 5-block CNN with class-weighted training and augmentation</li>
+        <li>✔ Streamlit app for instant MRI predictions</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏏 <a href="#">Cricbuzz LiveStats</a></h3>
+      <p>A multi-page Streamlit dashboard combining live Cricbuzz API data with a SQL database for scorecards, player leaderboards, analytics, and CRUD operations.</p>
+      <p>
+        <code>Python</code> <code>Streamlit</code> <code>SQL</code> <code>SQLAlchemy</code> <code>REST API</code>
+      </p>
+      <ul>
+        <li>✔ 25 SQL analytics queries using window functions and CTEs</li>
+        <li>✔ Normalized 3NF schema with full CRUD interface</li>
+      </ul>
+    </td>
+  </tr>
     <td width="50%" valign="top">
       <h3>🪖 <a href="#">Helmet Compliance Detection System</a></h3>
       <p>A full-stack, real-time safety helmet detection application streaming live video via WebSockets for workplace safety compliance.</p>
@@ -213,6 +237,48 @@
         <li>Sentence Embeddings</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <h3>📊 Data Science & ML</h3>
+      <ul>
+        <li>Scikit-learn Algorithms</li>
+        <li>K-Means & Hierarchical Clustering</li>
+        <li>Customer Segmentation Analytics</li>
+        <li>TF-IDF & Text Processing</li>
+        <li>NLTK Spam Classification</li>
+        <li>CNN & Transfer Learning (TensorFlow/Keras)</li>
+        <li>Medical Image Classification</li>
+      </ul>
+    </td>
+      <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Deep Learning</h3>
+      <ul>
+        <li>CNN Design (TensorFlow/Keras)</li>
+        <li>Transfer Learning</li>
+        <li>Medical Image Classification</li>
+        <li>Class Imbalance Handling</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🗄️ Data Engineering & SQL</h3>
+      <ul>
+        <li>SQL Analytics (Window Functions, CTEs)</li>
+        <li>Database Design (3NF) & CRUD</li>
+        <li>REST API → Database Pipelines</li>
+        <li>Streamlit Dashboards</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
+    <td width="33%" valign="top">
+      <h3>💻 Software Development</h3>
+      <ul>
+        <li>Modular Python Engineering</li>
+        <li>Algorithmic Optimization</li>
+        <li>Git Version Control</li>
+        <li>Interactive Portfolio Engineering</li>
+      </ul>
+    </td>
     <td width="34%" valign="top">
       <h3>🌐 Model Serving & Web APIs</h3>
       <ul>
@@ -226,25 +292,6 @@
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>📊 Data Science & ML</h3>
-      <ul>
-        <li>Scikit-learn Algorithms</li>
-        <li>K-Means & Hierarchical Clustering</li>
-        <li>Customer Segmentation Analytics</li>
-        <li>TF-IDF & Text Processing</li>
-        <li>NLTK Spam Classification</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💻 Software Development</h3>
-      <ul>
-        <li>Modular Python Engineering</li>
-        <li>Algorithmic Optimization</li>
-        <li>Git Version Control</li>
-        <li>Interactive Portfolio Engineering</li>
-      </ul>
-    </td>
     <td width="34%" valign="top">
       <h3>💡 Problem Solving</h3>
       <ul>
