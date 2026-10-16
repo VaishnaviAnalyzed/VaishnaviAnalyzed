@@ -173,10 +173,10 @@ INFO_ROWS = [
     {"type": "field",    "label": "LeetCode", "value": "10+ problems solved"},
     # Stack section
     {"type": "section",  "label": "— Stack"},
+    {"type": "field",    "label": "AI / ML",  "value": "TensorFlow, PyTorch, OpenCV"},
     {"type": "field",    "label": "Frontend", "value": "React, Next.js, TypeScript"},
     {"type": "field",    "label": "Backend",  "value": "Node.js, Python, FastAPI"},
-    {"type": "field",    "label": "Database", "value": "PostgreSQL, MongoDB, Redis"},
-    {"type": "field",    "label": "Cloud",    "value": "AWS, Docker, GitHub Actions"},
+    {"type": "field",    "label": "Database", "value": "SQL, MongoDB, SQLite"},
     # Highlights section
     {"type": "section",  "label": "— Highlights"},
     {"type": "bullet",   "value": "40 public repositories"},
