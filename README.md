@@ -148,7 +148,6 @@
         <li>✔ Instant visual and posture corrective feedback</li>
       </ul>
     </td>
-      <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="#">Brain Tumor MRI Classification</a></h3>
       <p>A deep-learning pipeline that classifies brain MRI slices into glioma, meningioma, pituitary tumor, or no tumor, using a custom CNN, transfer-learning backbones, and a Streamlit app for real-time prediction.</p>
@@ -160,6 +159,8 @@
         <li>✔ Streamlit app for instant MRI predictions</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏏 <a href="#">Cricbuzz LiveStats</a></h3>
       <p>A multi-page Streamlit dashboard combining live Cricbuzz API data with a SQL database for scorecards, player leaderboards, analytics, and CRUD operations.</p>
@@ -171,7 +172,6 @@
         <li>✔ Normalized 3NF schema with full CRUD interface</li>
       </ul>
     </td>
-  </tr>
     <td width="50%" valign="top">
       <h3>🪖 <a href="#">Helmet Compliance Detection System</a></h3>
       <p>A full-stack, real-time safety helmet detection application streaming live video via WebSockets for workplace safety compliance.</p>
@@ -245,11 +245,10 @@
         <li>Customer Segmentation Analytics</li>
         <li>TF-IDF & Text Processing</li>
         <li>NLTK Spam Classification</li>
-        <li>CNN & Transfer Learning (TensorFlow/Keras)</li>
-        <li>Medical Image Classification</li>
       </ul>
     </td>
-      <tr>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>🧠 Deep Learning</h3>
       <ul>
@@ -268,8 +267,6 @@
         <li>Streamlit Dashboards</li>
       </ul>
     </td>
-    <td width="33%" valign="top"></td>
-  </tr>
     <td width="33%" valign="top">
       <h3>💻 Software Development</h3>
       <ul>
@@ -279,6 +276,8 @@
         <li>Interactive Portfolio Engineering</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="34%" valign="top">
       <h3>🌐 Model Serving & Web APIs</h3>
       <ul>
@@ -290,8 +289,6 @@
         <li>RESTful API Design</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="34%" valign="top">
       <h3>💡 Problem Solving</h3>
       <ul>
