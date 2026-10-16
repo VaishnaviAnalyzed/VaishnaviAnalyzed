@@ -1,0 +1,40 @@
+name: Generate SVGs
+
+on:
+  workflow_dispatch:        # lets you run it from the Actions tab
+  push:
+    paths:
+      - generate_svgs.py
+      - gen_terminal.py
+  schedule:
+    - cron: "0 0 * * *"     # daily
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Generate SVGs
+        run: |
+          python generate_svgs.py
+          python gen_terminal.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.svg
+          git diff --staged --quiet || git commit -m "Update generated SVGs"
+          git push
