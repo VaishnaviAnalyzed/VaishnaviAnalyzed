@@ -101,7 +101,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Core Programming</h3>
-      <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+      <img src="https://skillicons.dev/icons?i=python,sql,mysql,js,html,css" />
       <br/><br/>
       <h3>👁️ Computer Vision & ML</h3>
       <p>
